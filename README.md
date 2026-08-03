@@ -1,2 +1,4 @@
-# cpp-matrix-transpose-65
+# Cpp Matrix Transpose 65
+
 Flipping matrix row/column orientations in C++.
+
